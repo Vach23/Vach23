@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vach23
-- 👀 I’m interested in technology in general - hardware, firmware, software, electronics, AI, basically anything. Oh and also I can bake really good pizza.
-- 🌱 I’m currently learning Robotics, I would like to improve in control, learn some AI, and CV. Also would like to learn some Algorithms.
+👋 Hi, I’m @Vach23
+👀 Tech is my passion—whether it's hardware, firmware, software, electronics, or AI. Plus, I can make pretty good pizza.
+🌱 I’m currently exploring Robotics. My goals are to improve in control systems, learn AI, dive into computer vision, and master some algorithms.
 
 <!---
 Vach23/Vach23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
